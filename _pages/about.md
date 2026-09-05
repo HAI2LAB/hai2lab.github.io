@@ -13,6 +13,7 @@ profile:
     <p>Chosun University</p>
     <p>309 Pilmun-daero, Dong-gu</p>
     <p>Gwangju 61452, Republic of Korea</p>
+    <p>Room 2305, Natural Science Hall</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
