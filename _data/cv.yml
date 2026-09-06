@@ -2,7 +2,7 @@ cv:
   name: Jiwoong Heo
   label: Assistant Professor
   email: your.email@chosun.ac.kr
-  location: Gwangju, Republic of Korea
+  location: Gwangju, Korea
   image: ""
   summary: Assistant Professor in the Department of Computer Statistics at Chosun University and director of HAI2LAB (Human-AI Interaction & Intelligence Lab). My research spans transportation mode detection from mobile sensing, human–vehicle interaction in automated driving, VR/AR-based assessment, and applied large language and vision-language models.
 
@@ -20,17 +20,17 @@ cv:
   sections:
     Education:
       - institution: Hanyang University
-        location: Seoul, Republic of Korea
+        location: Seoul, Korea
         url: https://www.hanyang.ac.kr/
         area: Computer Software
         studyType: Ph.D. (Integrated M.S./Ph.D. Program)
         start_date: 2016-03-01
         end_date: 2023-08-31
         highlights:
-          - Advisor: Prof. Kwanguk Kim
+          - "Advisor: Prof. Kwanguk Kim"
 
       - institution: Soongsil University
-        location: Seoul, Republic of Korea
+        location: Seoul, Korea
         url: https://www.ssu.ac.kr/
         area: Global Media
         studyType: B.S.
@@ -40,7 +40,7 @@ cv:
     Experience:
       - company: Chosun University
         position: Assistant Professor, Department of Computer Statistics
-        location: Gwangju, Republic of Korea
+        location: Gwangju, Korea
         start_date: 2026-09-01
         end_date: Present
         summary: Director of HAI2LAB (Human-AI Interaction & Intelligence Lab).
@@ -49,20 +49,20 @@ cv:
 
       - company: Gwangju Institute of Science and Technology (GIST)
         position: Postdoctoral Researcher, Department of AI Convergence
-        location: Gwangju, Republic of Korea
+        location: Gwangju, Korea
         start_date: 2025-08-01
         end_date: 2026-08-31
         summary: Applied LLM/VLM research including traffic accident fault-ratio prediction and video content classification.
 
       - company: Korea Institute of Science and Technology (KIST)
         position: Postdoctoral Researcher, AI Research Division
-        location: Seoul, Republic of Korea
+        location: Seoul, Korea
         start_date: 2024-07-01
         end_date: 2025-06-30
 
       - company: California State University, Long Beach
         position: Visiting Researcher
-        location: Long Beach, California, US
+        location: Long Beach, CA
         start_date: 2019-11-01
         end_date: 2020-02-29
 
